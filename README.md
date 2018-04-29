@@ -1,4 +1,2 @@
-# ipv6
-PPPoE (via pon) &amp; ipv6 
-
-view wiki
+# ipv6 
+описание настроек https://github.com/AlexTransit/ipv6/wiki
